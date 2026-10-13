@@ -59,4 +59,29 @@ a. Buat shell-script yang melakukan loop dengan nama pwaktu.sh, setiap 10 detik,
 <img width="1920" height="1080" alt="28" src="https://github.com/user-attachments/assets/ff99bb59-af38-452a-87cf-11c8ec212066" />
 b.Jalankan sebagai background; kemudian jalankan satu program (utilitas find) di background sebagai berikut :
 <img width="1920" height="1080" alt="29" src="https://github.com/user-attachments/assets/cbd8160e-4f38-4d92-980b-aa3f9b893393" />
+
 c.Jadikan program ke 1 sebagai foreground, tekan ^Z dan kembalikan program tersebut ke background
+<img width="1920" height="1080" alt="30" src="https://github.com/user-attachments/assets/56344406-5525-4bbd-bbaa-540cc62ff4c7" />
+<img width="1920" height="1080" alt="31" src="https://github.com/user-attachments/assets/96242804-75af-4f3b-96e2-6ce05d510ae6" />
+<img width="1920" height="1080" alt="32" src="https://github.com/user-attachments/assets/bd20a133-aaab-4aa0-81ad-236fa901bb6b" />
+<img width="1920" height="1080" alt="33" src="https://github.com/user-attachments/assets/1db1a463-9596-4bd0-a65e-9dee8b4e0e44" />
+
+d. Stop program background dengan utilitas kill
+<img width="1920" height="1080" alt="34" src="https://github.com/user-attachments/assets/4dabec34-fe1d-4e85-80c4-1d804c990850" />
+
+ 
+6. History
+ a. Ganti nilai HISTSIZE dari 1000 menjadi 20
+<img width="1920" height="1080" alt="35" src="https://github.com/user-attachments/assets/03f17d73-12fc-463d-9a00-1f2dd0e6050e" />
+
+b. Gunakan fasilitas history dengan mengedit instruksi baris ke 5 dari instruksi yang terakhir dilakukan
+<img width="1920" height="1080" alt="36" src="https://github.com/user-attachments/assets/8bfb3ec3-131a-4ee3-a2e2-0bc8e02edf79" />
+
+c. Ulangi instruksi yang terakhir.  Gunakan juga ^P dan ^N untuk bernavigasi pada history buffer
+<img width="1920" height="1080" alt="36" src="https://github.com/user-attachments/assets/568b74d0-a7db-49c6-a2d8-0da98d0c69e8" />
+
+d. Ulangi instruksi pada history bufer nomor 150
+<img width="1920" height="1080" alt="36" src="https://github.com/user-attachments/assets/b746e5e2-4185-41c5-903a-7fa134f79117" />
+
+e. Ulangi instruksi dengan prefix “ls”
+<img width="1920" height="1080" alt="36" src="https://github.com/user-attachments/assets/4db38504-d8e9-4b57-b5ad-c011be9fb936" />
